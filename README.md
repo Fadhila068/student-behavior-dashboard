@@ -64,16 +64,7 @@ This heatmap compares average exam scores based on internet quality and diet qua
 
 The visualization highlights differences in academic performance across combinations of internet and diet quality.
 
-### 5. Gender Distribution
-
-A pie chart presents the distribution of students by gender.
-
-The dataset contains:
-- Female: **48.10%**
-- Male: **47.70%**
-- Other: **4.20%**
-
-### 6. Mental Health vs Exam Score
+### 5. Mental Health vs Exam Score
 
 This visualization compares average exam scores across different mental health ratings.
 
@@ -93,9 +84,7 @@ Based on the dashboard analysis:
 
 4. Internet quality and diet quality are associated with variations in average exam scores across different groups.
 
-5. Female students represent the largest gender group in the dataset, although the difference compared with male students is relatively small.
-
-6. Higher mental health ratings are accompanied by higher average exam scores in the dashboard.
+5. Higher mental health ratings are accompanied by higher average exam scores in the dashboard.
 
 ---
 
